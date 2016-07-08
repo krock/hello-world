@@ -1,2 +1,3 @@
 # hello-world
-Hello 1st project
+This is the Hello 1st project.
+Auth: Ken
